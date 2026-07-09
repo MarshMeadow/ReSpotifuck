@@ -9,6 +9,8 @@ The app provides a minimal interface that loads the Spotify website directly ins
 >
 > ReSpotifuck is **not affiliated with, endorsed by, or sponsored by Spotify**. Spotify is a trademark of Spotify AB. This project is provided for educational and development purposes.
 
+Web Version im working on: https://github.com/MarshMeadow/SpotFuck-Web
+
 ## Features
 
 * 🎵 Lightweight Android WebView wrapper
